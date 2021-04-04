@@ -1,5 +1,5 @@
 # Computer-Vision-with-Deep-Learning
-Master's degree in Advanced Telecommunication Technologies (MATT)
+This repository contains the works and laboratories of Computer Vision with Deep Learning I do in the Master's degree in Advanced Telecommunication Technologies (MATT), at Universitat Politècnica de Catalunya.
 
 ### [Fundamental Matrix - Epipolar Geometry.](https://github.com/DanileRond/Computer-Vision-with-Deep-Learning/blob/main/CV_fundamental_matrix_Navarrete.ipynb)
 In this practical work we will address the problem of estimating the fundamental matrix between two images. To do this, the characteristic points will be detected in both images and then, correspondences between points will be established. Using these correspondences, the fundamental matrix can be estimated.
